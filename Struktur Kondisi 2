@@ -1,1 +1,12 @@
+#Masukan inputan
+bil150 = int(input("Bilangan ke-1: "))
+bil250 = int(input("Bilangan ke-2: "))
+bil350 = int(input("Bilangan ke-3: "))
 
+#Buat variable data
+data = [bil350, bil150, bil250]
+
+#Menampilkan data
+print("Data sebelum di urutkan :", data)
+list.sort(data)
+print("Data setelah di urutkan :", data)
