@@ -1,6 +1,4 @@
-# Tugas P6 
-# labpy02
-# Latihan 1
+ # labpy02
 #Masukan input 
 bil150 = int (input("Masukan bilangan : "))
 bil250 = int (input("Masukan bilangan : "))
