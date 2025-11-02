@@ -1,1 +1,15 @@
+#Masukan input 
+bil150 = int (input("Masukan bilangan : "))
+bil250 = int (input("Masukan bilangan : "))
+bil350 = int (input("Masukan bilangan : "))
+bil450 = int (input("Masukan bilangan : "))
 
+#Nilai terbesar
+
+if (bil450 > bil150):
+   print("Bilangan terbesar :",bil450)
+
+#Nilai terkecil
+
+if (bil150 < bil250):
+   print("Bilangan terkecil :",bil150)
