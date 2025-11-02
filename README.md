@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fkryymhmdd77/fkryymhmdd77/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fkryymhmdd77/fkryymhmdd77/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fkryymhmdd77/fkryymhmdd77/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+# TUGAS PERTEMUAN 6
+NAMA : MUHAMAD FIKRY SARBHAKTY
+NIM : 312510340
+_KUMPULAN TUGAS PERTEMUAN 6 TENTANG KONDISIONAL DAN PERULANGAN_
