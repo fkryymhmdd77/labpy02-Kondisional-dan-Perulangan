@@ -1,1 +1,8 @@
-
+import random
+print("===========================================")
+print("= Bilangan acak yang lebih kecil dari 0,5 =")
+print("===========================================")
+jum = int(input("Masukan nilai: "))
+for i in range(1, jum + 1):
+    angkarandom = random.uniform(0, 0.5)
+    print("Bilangan ke :", i, " : ", angkarandom)
